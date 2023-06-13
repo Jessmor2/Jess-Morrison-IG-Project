@@ -1,0 +1,43 @@
+body {
+    background: lightgray;
+    margin: 0;
+}
+h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+header {
+    background: white;
+    margin: auto;
+    text-align: center;
+    padding-right: 150px;
+}
+.Posts {
+    background: white;
+    width: 500px;
+    margin: auto;
+}
+h2 {
+    margin: 0;
+}
+.post-heading div:first-child{
+   display: inline-block;
+   width: 80%;
+   padding-left: 10px;
+}
+.post-heading div:last-child{
+    display: inline-block;
+    width: 16%;
+    color: lightgrey;
+    text-align: right;
+    padding-right: 8px;
+ }
+img {
+    width: 100%;
+}
+p {
+    padding: 10px;
+    margin: 0;
+    margin-bottom: 30px;
+}
